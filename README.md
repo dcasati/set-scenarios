@@ -6,7 +6,7 @@ The objective of this simulated emergency test is to assess the effectiveness of
 
 ## Simulated Emergency Test Scenario
 
-> ![ATTENTION]
+> [!WARNING]  
 > 
 > Please remember to announce **"Exercise Exercise Exercise"** prior to any traffic so that if anyone is listening they don't believe this is a real emergency.
 
@@ -49,7 +49,7 @@ PROCEDURE:
 
 ### APRS
 
-> ![ATTENTION]
+> [!WARNING]  
 > 
 > BEFORE YOU PROCEED: Make sure any updates to APRS are not going over the Internet via APRS-IS (e.g.: No updates on aprs.fi as this might cause confusion with anyone not participating in the exercise). All updates should be only over RF and they should be removed after the exercise is done.
 
